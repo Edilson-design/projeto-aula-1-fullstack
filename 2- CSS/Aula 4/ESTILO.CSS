@@ -1,0 +1,17 @@
+body {
+    background: rgb(116, 53, 53);
+}
+
+h3 {
+    color: rgb(2, 31, 2);
+}
+
+
+.foto-principal {
+    border: 5px groove black;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+
+}
